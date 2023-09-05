@@ -1,5 +1,3 @@
-AI4Copernicus tools and methods for bridging AI and EO
-======================================================
 Half-day tutorial in [BiDS 2023](https://www.bigdatafromspace2023.org/)
 
 ## At a glance

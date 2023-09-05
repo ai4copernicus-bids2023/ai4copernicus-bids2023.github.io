@@ -25,7 +25,9 @@ This tutorial will target EO and AI specialists and will require little IT techn
   * Presentation of the hands-on challenges (20')
   * AI4Copernicus technological framework and main tools & services (45')
   * Q&A and Initial discussion (10')
+
 ### Break (30')
+
 ### Session 2: Practice (90')
   * Scenario 1: Assessment of impact of natural hazard (Hands-on session, 40')
   * Scenario 2: Crop type classification (Hands-on session, 40')

@@ -5,7 +5,7 @@ Half-day tutorial in [BiDS 2023](https://www.bigdatafromspace2023.org/)
 ## At a glance
 
 *What:*  Half-day tutorial  
-*When:*  November 6, 2023  
+*When:*  Monday, November 6, 2023  
 *Where:* Vienna, Austria  
 
 ## Description
@@ -18,25 +18,49 @@ The choice of the use cases for the hands-on applications will come from AI4Cope
 
 This tutorial will target EO and AI specialists and will require little IT technical background. The hands-on session will take place on the CREODIAS infrastructure and will involve the application of AI techniques on available datasets.
 
-## Schedule
+## Agenda
 
-TBC
+### Session 1: Theory (90')
+  * Welcome & Introduction to the AI4Copernicus project (15')
+  * Presentation of the hands-on challenges (20')
+  * AI4Copernicus technological framework and main tools & services (45')
+  * Q&A and Initial discussion (10')
+### Break (30')
+### Session 2: Practice (90')
+  * Scenario 1: Assessment of impact of natural hazard (Hands-on session, 40')
+  * Scenario 2: Crop type classification (Hands-on session, 40')
+  * Closing Discussion & Feedback (10')
 
 ## Material
 
 TBC
 
-## Presenters
+## On-site instructors
 
-TBC
+* Antonis Troumpoukis, National Centre for Scientific Research ``Demokritos''
+* Iraklis Klampanos, National Centre for Scientific Research ``Demokritos''
+* Despina-Athanasia Pantazi, National and Kapodistrian University of Athens
+* Omar Barrilero, European Union Satellite Centre
+* Giulio Weikmann, University of Trento
+* Mohanad Albughdadi, ECMWF
+* Vasileios Baousis, ECMWF
 
-## Organizers
+## Contributors
 
-TBC
+* Jacek Tokarski, CloudFerro
+* Lorenzo Bruzzone, University of Trento
+* Michele Lazzarini, European Union Satellite Centre
+* Manolis Koubarakis, National and Kapodistrian University of Athens
 
 ## References
 
-TBC
+* Antonis Troumpoukis, Iraklis Klampanos, Despina-Athanasia Pantazi, Eleni Tsalapati, Mohanad Albughdadi, Mihai Alexe, Vasileios Baousis,
+  Omar Barrilero, Bryce Billière, Alexandra Bojor, Pedro Branco, Lorenzo Bruzzone, Andreina Chietera, Philippe Fournand, Richard Hall,
+  David Hassan, Michele Lazzarini, Adrian Luna, Dharmen Punjani, George Stamoulis, Giulio Weikmann, Marcin Ziółkowski, Xenia Ziouvelou,
+  Manolis Koubarakis and Vangelis Karkaletsis, **"Bridging the European Earth-Observation and AI Communities for Data-Intensive Innovation"**,
+  *2023 IEEE Ninth International Conference on Big Data Computing Service and Applications (BigDataService)*,
+  Athens, Greece, 2023, pp. 9-16, doi: 10.1109/BigDataService58306.2023.00008.
+  URL: (https://ieeexplore.ieee.org/document/10233924)
 
 ## Acknowledgement
 

@@ -1,17 +1,12 @@
 theme: jekyll-theme-minimal
 title: AI4Copernicus tools and methods for bridging AI and EO
-description: Half-day tutorial at BiDS 2023.
+description: >
+Half-day tutorial at BiDS 2023.
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+
 logo: https://ai4copernicus-project.eu/wp-content/uploads/2021/06/AI4Copernicus_-logo-transparent.png
 show_downloads: false
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"

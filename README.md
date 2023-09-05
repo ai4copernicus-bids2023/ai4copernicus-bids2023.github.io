@@ -38,12 +38,12 @@ TBC
 ## On-site instructors
 
 * Antonis Troumpoukis, National Centre for Scientific Research ``Demokritos''
-* Iraklis Klampanos, National Centre for Scientific Research ``Demokritos''
 * Despina-Athanasia Pantazi, National and Kapodistrian University of Athens
 * Omar Barrilero, European Union Satellite Centre
 * Giulio Weikmann, University of Trento
 * Mohanad Albughdadi, ECMWF
 * Vasileios Baousis, ECMWF
+* Iraklis Klampanos, National Centre for Scientific Research ``Demokritos''
 
 ## Contributors
 

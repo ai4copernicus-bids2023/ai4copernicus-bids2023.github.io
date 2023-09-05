@@ -50,6 +50,7 @@ TBC
 * Jacek Tokarski, CloudFerro
 * Lorenzo Bruzzone, University of Trento
 * Michele Lazzarini, European Union Satellite Centre
+* George Stamoulis - National and Kapodistrian University of Athens
 * Manolis Koubarakis, National and Kapodistrian University of Athens
 
 ## References
@@ -57,7 +58,7 @@ TBC
 * Antonis Troumpoukis, Iraklis Klampanos, Despina-Athanasia Pantazi, Eleni Tsalapati, Mohanad Albughdadi, Mihai Alexe, Vasileios Baousis,
   Omar Barrilero, Bryce Billière, Alexandra Bojor, Pedro Branco, Lorenzo Bruzzone, Andreina Chietera, Philippe Fournand, Richard Hall,
   David Hassan, Michele Lazzarini, Adrian Luna, Dharmen Punjani, George Stamoulis, Giulio Weikmann, Marcin Ziółkowski, Xenia Ziouvelou,
-  Manolis Koubarakis and Vangelis Karkaletsis, **"Bridging the European Earth-Observation and AI Communities for Data-Intensive Innovation"**,
+  Manolis Koubarakis and Vangelis Karkaletsis, "Bridging the European Earth-Observation and AI Communities for Data-Intensive Innovation",
   *2023 IEEE Ninth International Conference on Big Data Computing Service and Applications (BigDataService)*,
   Athens, Greece, 2023, pp. 9-16, doi: 10.1109/BigDataService58306.2023.00008.
   URL: (https://ieeexplore.ieee.org/document/10233924)

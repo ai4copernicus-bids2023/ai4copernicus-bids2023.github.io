@@ -8,7 +8,7 @@ Half-day tutorial in [BiDS 2023](https://www.bigdatafromspace2023.org/)
 
 ## Registration
 
-To register, visit [the BiDS registration](https://www.bigdatafromspace2023.org/registration) and register as participant to the "AI4Copernicus tools and methods for bridging AI and EO" event in Group 3. 
+To register, visit the [BiDS registration page](https://www.bigdatafromspace2023.org/registration) and register as participant to the "AI4Copernicus tools and methods for bridging AI and EO" event in Group 3. 
 
 ## Description
 

@@ -6,6 +6,10 @@ Half-day tutorial in [BiDS 2023](https://www.bigdatafromspace2023.org/)
 *When:*  Monday, November 6, 2023  
 *Where:* Vienna, Austria  
 
+## Registration
+
+To register, visit [the BiDS registration](https://www.bigdatafromspace2023.org/registration) and register as participant to the "AI4Copernicus tools and methods for bridging AI and EO" event in Group 3. 
+
 ## Description
 
 Artificial Intelligence (AI) represents a collection of tools and methodologies that have the potential of transforming virtually all aspects of human activity. Earth observation (EO) data, including satellite and in-situ, are essential for a number of applications, covering high-impact domains as diverse as security, agriculture and health. The H2020 [AI4Copernicus project](https://ai4copernicus-project.eu) delivers a technological framework for developers and businesses to combine AI-infused tools and EO data and services in order to create high impact applications. This is further facilitated by providing a bridge between DIAS platforms and the European AI-on-Demand platform.

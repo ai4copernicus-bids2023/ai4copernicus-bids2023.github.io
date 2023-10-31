@@ -4,7 +4,7 @@ Half-day tutorial in [BiDS 2023](https://www.bigdatafromspace2023.org/)
 
 *What:*  Half-day tutorial with hands-on session  
 *When:*  Monday, November 6, 2023 at 14.00-17.30 CET  
-*Where:* Austria Center Vienna, Vienna, Austria  
+*Where:* Austria Center Vienna, Room 0.97, Vienna, Austria  
 
 ## Registration
 
@@ -45,8 +45,6 @@ TBC
 * Despina-Athanasia Pantazi, National and Kapodistrian University of Athens
 * Omar Barrilero, European Union Satellite Centre
 * Giulio Weikmann, University of Trento
-* Mohanad Albughdadi, ECMWF
-* Vasileios Baousis, ECMWF
 * Iraklis Klampanos, NCSR-Demokritos
 
 ## Contributors
@@ -54,6 +52,8 @@ TBC
 * Jacek Tokarski, CloudFerro
 * Lorenzo Bruzzone, University of Trento
 * Michele Lazzarini, European Union Satellite Centre
+* Mohanad Albughdadi, ECMWF
+* Vasileios Baousis, ECMWF
 * George Stamoulis, National and Kapodistrian University of Athens
 * Manolis Koubarakis, National and Kapodistrian University of Athens
 

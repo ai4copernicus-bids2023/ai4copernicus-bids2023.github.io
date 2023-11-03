@@ -37,7 +37,7 @@ This tutorial will target EO and AI specialists and will require little IT techn
 
 ## Material
 
-TBC
+[AI4Copernicus BiDS2023 Tutorial Companion](https://ai4copernicus-bids2023.github.io/AI4Copernicus%20BiDS%20tutorial%20companion.pdf)
 
 ## On-site instructors
 

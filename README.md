@@ -50,6 +50,7 @@ This tutorial will target EO and AI specialists and will require little IT techn
 ## Contributors
 
 * Jacek Tokarski, CloudFerro
+* Łukasz Mickaniewski, CloudFerro
 * Lorenzo Bruzzone, University of Trento
 * Michele Lazzarini, European Union Satellite Centre
 * Mohanad Albughdadi, ECMWF

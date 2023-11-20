@@ -6,9 +6,18 @@ Half-day tutorial in [BiDS 2023](https://www.bigdatafromspace2023.org/)
 *When:*  Monday, November 6, 2023 at 14.00-17.30 CET  
 *Where:* Austria Center Vienna, Room 0.97, Vienna, Austria  
 
-## Registration
+## Material
 
-To register, visit the [BiDS registration page](https://www.bigdatafromspace2023.org/registration) and register as participant to the "AI4Copernicus tools and methods for bridging AI and EO" event in Group 3. 
+### Tutorial Companion
+
+[AI4Copernicus BiDS2023 Tutorial Companion](https://ai4copernicus-bids2023.github.io/AI4Copernicus%20BiDS%20tutorial%20companion.pdf)
+
+### Presentations
+  
+[The AI4Copernicus Project Overview](BiDS2023_tutorial_AI4Copernicus_Project_Overview_Presentation.pdf)  
+[Assessment of Natural Hazards: Challenge and the Security Bootstrapping Service](BiDS2023_tutorial_Natural_Hazards_Assessment_Security_Service_Presentation.pdf)  
+[Crop Type Classification: Challenge Description and the Agriculture Bootstrapping Service](BiDS2023_tutorial_Crop-type_Classification_Agriculture_Service_Presentation.pdf)  
+[Semantic and Linked Data Tools for Geospatial and Earth Observation Data](BiDS2023_tutorial_AI4Copernicus_Linked_Data_Presentation.pdf)
 
 ## Description
 
@@ -23,9 +32,10 @@ This tutorial will target EO and AI specialists and will require little IT techn
 ## Agenda
 
 ### Session 1: Background (90')
-  * Welcome & Introduction to the AI4Copernicus project (15')
-  * Presentation of the hands-on challenges (20')
-  * AI4Copernicus technological framework and main tools & services (45')
+  * Welcome & Introduction to the AI4Copernicus project (Technological Framework, Tools, and Services) (20')
+  * Assessment of Impact of Natural Hazards: Challenge Description and the Security Bootstrapping Service (20')
+  * Crop Type Classification: Challenge Description and the Agriculture Bootstrapping Service (20')
+  * Semantic and Linked Data Tools for Geospatial and Earth Observation Data (20')
   * Q&A and Initial discussion (10')
 
 ### Break (30')
@@ -35,9 +45,9 @@ This tutorial will target EO and AI specialists and will require little IT techn
   * Scenario 2: Crop type classification (Hands-on session, 40')
   * Closing Discussion & Feedback (10')
 
-## Material
+## Registration
 
-[AI4Copernicus BiDS2023 Tutorial Companion](https://ai4copernicus-bids2023.github.io/AI4Copernicus%20BiDS%20tutorial%20companion.pdf)
+To register, visit the [BiDS registration page](https://www.bigdatafromspace2023.org/registration) and register as participant to the "AI4Copernicus tools and methods for bridging AI and EO" event in Group 3. 
 
 ## On-site instructors
 
